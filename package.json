@@ -1,0 +1,11 @@
+{
+  "name": "generator-react-app",
+  "version": "0.1.0",
+  "description": "",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ]
+}
