@@ -1,11 +1,14 @@
 {
   "name": "generator-react-app",
   "version": "0.1.0",
-  "description": "",
+  "description": "react-app generator",
   "files": [
     "generators"
   ],
   "keywords": [
     "yeoman-generator"
-  ]
+  ],
+  "dependencies": {
+    "yeoman-generator": "^4.12.0"
+  }
 }
